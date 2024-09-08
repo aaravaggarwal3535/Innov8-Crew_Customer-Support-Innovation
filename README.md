@@ -28,8 +28,8 @@ Project is made by a team of 4 including:
    
 4) Abhinav:
    
-     Github:
+     Github: https://github.com/Abhinav041204  
    
-     Linkden:
+     Linkden: https://www.linkedin.com/in/abhinav0412  
    
-     Instagram:  
+     Instagram: https://www.instagram.com/abhinav_as_ak_holic
