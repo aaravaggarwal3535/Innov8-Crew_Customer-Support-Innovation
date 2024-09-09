@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(33, 33, 33);
+}
+
+.logo_container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 40vh;
+    width: 100vw;
+    margin-top: 5vh;
+}
+
+.logo_container img{
+    width: 20%;
+    height: 80%;
+}
+
+.question_container{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+.question_container ul{
+    width: 60%;
+}
+.question_container ul li{
+    color: white;
+    text-align: center;
+}
