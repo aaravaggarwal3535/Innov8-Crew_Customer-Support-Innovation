@@ -18,7 +18,7 @@ Project is made by a team of 4 including:
     
    Instagram: https://www.instagram.com/ayushchoudhary6006
      
-3) Abhay:
+3) Abhay Kumar:
    
    Github: https://github.com/Rookiecoder19
    
